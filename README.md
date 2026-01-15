@@ -2,7 +2,7 @@
 
 ## 📊 Overview
 
-Customer churn is a major challenge in the telecom industry, directly impacting revenue and growth. **ChurnScope** focuses on exploratory data analysis (EDA) to understand customer behavior, service usage, and account patterns that influence churn. Using Python-based data analytics, this project uncovers key churn drivers and provides data-backed insights that can support customer retention strategies.
+Customer churn is a major challenge in the telecom industry, directly impacting revenue and growth. **ChurnScope** focuses on exploratory data analysis **(EDA)** to understand customer behavior, service usage, and account patterns that influence churn. Using Python-based data analytics, this project uncovers key churn drivers and provides data-backed insights that can support customer retention strategies.
 
 ## 🎯 Problem Statement
 
